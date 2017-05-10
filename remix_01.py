@@ -1,0 +1,81 @@
+import urllib2
+import json
+
+def main():
+
+    filename = "/Users/carmensteenbrink/Desktop/json_goed/remixes_jan2016_dec2016.json"
+    file  = open(filename, "r")
+    for line in file:
+        if "file_page_url" in line:
+            id = line.split('/')[-1][:-3]
+            filter_json(id)
+            
+            
+            #break
+
+
+'''
+
+[
+  {
+    "artist_page_url": "http://ccmixter.org/people/JeffSpeed68",
+    "file_page_url": "http://ccmixter.org/files/JeffSpeed68/52942",
+    "files": [
+      {
+        "download_url": "http://ccmixter.org/content/JeffSpeed68/JeffSpeed68_-_Loaded_with_Vitriol.mp3",
+        "file_extra": {
+          "sha1": "I5QQRMLJEYTTD7RUC2OW3ZZOKI2XHFU2"
+        },
+        "file_filesize": " (12.38MB)",
+        "file_format_info": {
+          "br": "CBR",
+'''
+
+def filter_json(id):
+    url = "http://ccmixter.org/api/query?f=json&t=info&ids="+id
+    site = urllib2.urlopen(url).read()
+    data = json.loads(site)
+
+    user_name = data[0]['user_name']
+    bpm = data[0]['upload_extra']['bpm']
+    upload_name = data[0]['upload_name']
+    remix_parents = data[0]['remix_parents'][0]['upload_id']
+    remix_children = data[0]['remix_children'][0]['upload_id']
+    
+    print user_name
+    print bpm
+    print upload_name
+    print remix_children
+    print remix_parents
+
+
+
+    '''
+    data =  json.dumps(data, sort_keys=True, indent=2, separators=(',', ': '))
+    data = data.split("\n")
+    
+    user_name = ""
+    bpm = ""
+    upload_name = ""
+    remix_parents = ""
+    remix_children = ""
+    
+    #for line in data:
+    for idx, line in enumerate(data):
+
+        print line
+
+        if "user_name" in line:
+            user_name = line.split('"')[3]
+        if "\"bpm\"" in line:
+            bpm = line.split(':')[1][:-1]
+        if "upload_name" in line:
+            upload_name = line.split('"')[-2]
+        if "remix_parents" in line:
+            remix_parents = line.split('"')[1]
+            #print ">>>>"+data[idx+1]
+            #print remix_parents
+    '''
+
+if __name__ == "__main__":
+    main()
