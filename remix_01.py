@@ -3,17 +3,13 @@ import json
 
 def main():
 
-    filename = "/Users/carmensteenbrink/Desktop/json_goed/remixes_jan2016_dec2016.json"
+    filename = "remixes_jan2016_dec2016.json"
     file  = open(filename, "r")
     for line in file:
         if "file_page_url" in line:
             id = line.split('/')[-1][:-3]
             filter_json(id)
             
-            
-            #break
-
-
 '''
 
 [
