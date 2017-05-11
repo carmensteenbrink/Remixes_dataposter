@@ -8,7 +8,7 @@ def main():
     with open(filename, "r") as infile:
         remixes = json.load(infile)
         
-    for remix in remixes:
+    for remix in remixes[95:100]:
         # The id is the last part of the file_page_url
         id = remix["file_page_url"].split('/')[-1]
         filter_json(id)
@@ -33,7 +33,7 @@ def main():
 def filter_json(id):
     url = "http://ccmixter.org/api/query?f=json&t=info&ids="+id
     site = urllib2.urlopen(url).read()
-    alldata = json.loads(site)
+    alldata = json.loads(site.decode("utf-8", "ignore"))
     data = alldata[0]
     
     user_name = data['user_name']
