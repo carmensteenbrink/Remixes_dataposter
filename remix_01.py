@@ -36,7 +36,10 @@ def filter_json(id):
     user_name = data['user_name']
     bpm = data['upload_extra']['bpm']
     upload_name = data['upload_name']
-    remix_parents = data['remix_parents'][0]['upload_id']
+    if data.has_key('remix_parents'):
+        remix_parents = data['remix_parents'][0]['upload_id']
+    else:
+        remix_parents = "---"
     remix_children = data['remix_children'][0]['upload_id']
     
     print user_name
