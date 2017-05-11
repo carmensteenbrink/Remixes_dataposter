@@ -8,7 +8,7 @@ def main():
     with open(filename, "r") as infile:
         remixes = json.load(infile)
         
-    for remix in remixes[95:100]:
+    for remix in remixes:
         # The id is the last part of the file_page_url
         id = remix["file_page_url"].split('/')[-1]
         filter_json(id)
@@ -39,11 +39,18 @@ def filter_json(id):
     user_name = data['user_name']
     bpm = data['upload_extra']['bpm']
     upload_name = data['upload_name']
+    remix_parents = []
     if data.has_key('remix_parents'):
-        remix_parents = data['remix_parents'][0]['upload_id']
-    else:
-        remix_parents = "---"
-    remix_children = data['remix_children'][0]['upload_id']
+        for parent in data['remix_parents']:
+            remix_parents.append(parent['upload_id'])
+    remix_children = []
+    if data.has_key('remix_children'):
+        for child in data['remix_children']:
+            if child.has_key('upload_id'):
+                remix_children.append(child['upload_id'])
+            elif child.has_key('pool_item_id'):
+                remix_children.append(child['pool_item_id'])
+            
     
     print user_name
     print bpm
