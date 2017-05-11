@@ -3,12 +3,15 @@ import json
 
 def main():
 
+    # Read the json file as json
     filename = "remixes_jan2016_dec2016.json"
-    file  = open(filename, "r")
-    for line in file:
-        if "file_page_url" in line:
-            id = line.split('/')[-1][:-3]
-            filter_json(id)
+    with open(filename, "r") as infile:
+        remixes = json.load(infile)
+        
+    for remix in remixes:
+        # The id is the last part of the file_page_url
+        id = remix["file_page_url"].split('/')[-1]
+        filter_json(id)
             
 '''
 
