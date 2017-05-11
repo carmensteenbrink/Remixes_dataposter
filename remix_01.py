@@ -7,12 +7,19 @@ def main():
     filename = "remixes_jan2016_dec2016.json"
     with open(filename, "r") as infile:
         remixes = json.load(infile)
-        
-    for remix in remixes:
+    
+    newRemixes = []
+    
+    for remixData in remixes:
         # The id is the last part of the file_page_url
-        id = remix["file_page_url"].split('/')[-1]
-        filter_json(id)
-            
+        id = remixData["file_page_url"].split('/')[-1]
+        remix = filter_json(id)
+        print remix
+        newRemixes.append(remix)
+    
+    outfilename = "remix_links.json"
+    with open(outfilename, "w") as outfile:
+        json.dump(newRemixes, outfile, indent=2, sort_keys=True)
 '''
 
 [
@@ -36,6 +43,7 @@ def filter_json(id):
     alldata = json.loads(site.decode("utf-8", "ignore"))
     data = alldata[0]
     
+    upload_id = id
     user_name = data['user_name']
     bpm = data['upload_extra']['bpm']
     upload_name = data['upload_name']
@@ -51,13 +59,17 @@ def filter_json(id):
             elif child.has_key('pool_item_id'):
                 remix_children.append(child['pool_item_id'])
             
+    # Create a new dict for this remix
+    remix = {}
+    remix['id'] = upload_id
+    remix['artist'] = user_name
+    remix['bpm'] = bpm
+    remix['track'] = upload_name
+    remix['children'] = remix_children
+    remix['parents'] = remix_parents
     
-    print user_name
-    print bpm
-    print upload_name
-    print remix_children
-    print remix_parents
-
+    # Return this simple dict
+    return remix
 
 
     '''
