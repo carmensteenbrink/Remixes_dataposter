@@ -3,17 +3,23 @@ import json
 
 def main():
 
-    filename = "/Users/carmensteenbrink/Desktop/json_goed/remixes_jan2016_dec2016.json"
-    file  = open(filename, "r")
-    for line in file:
-        if "file_page_url" in line:
-            id = line.split('/')[-1][:-3]
-            filter_json(id)
-            
-            
-            #break
-
-
+    # Read the json file as json
+    filename = "remixes_jan2016_dec2016.json"
+    with open(filename, "r") as infile:
+        remixes = json.load(infile)
+    
+    newRemixes = []
+    
+    for remixData in remixes:
+        # The id is the last part of the file_page_url
+        id = remixData["file_page_url"].split('/')[-1]
+        remix = filter_json(id)
+        print remix
+        newRemixes.append(remix)
+    
+    outfilename = "remix_links.json"
+    with open(outfilename, "w") as outfile:
+        json.dump(newRemixes, outfile, indent=2, sort_keys=True)
 '''
 
 [
@@ -34,20 +40,36 @@ def main():
 def filter_json(id):
     url = "http://ccmixter.org/api/query?f=json&t=info&ids="+id
     site = urllib2.urlopen(url).read()
-    data = json.loads(site)
-
-    user_name = data[0]['user_name']
-    bpm = data[0]['upload_extra']['bpm']
-    upload_name = data[0]['upload_name']
-    remix_parents = data[0]['remix_parents'][0]['upload_id']
-    remix_children = data[0]['remix_children'][0]['upload_id']
+    alldata = json.loads(site.decode("utf-8", "ignore"))
+    data = alldata[0]
     
-    print user_name
-    print bpm
-    print upload_name
-    print remix_children
-    print remix_parents
-
+    upload_id = id
+    user_name = data['user_name']
+    bpm = data['upload_extra']['bpm']
+    upload_name = data['upload_name']
+    remix_parents = []
+    if data.has_key('remix_parents'):
+        for parent in data['remix_parents']:
+            remix_parents.append(parent['upload_id'])
+    remix_children = []
+    if data.has_key('remix_children'):
+        for child in data['remix_children']:
+            if child.has_key('upload_id'):
+                remix_children.append(child['upload_id'])
+            elif child.has_key('pool_item_id'):
+                remix_children.append(child['pool_item_id'])
+            
+    # Create a new dict for this remix
+    remix = {}
+    remix['id'] = upload_id
+    remix['artist'] = user_name
+    remix['bpm'] = bpm
+    remix['track'] = upload_name
+    remix['children'] = remix_children
+    remix['parents'] = remix_parents
+    
+    # Return this simple dict
+    return remix
 
 
     '''
