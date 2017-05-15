@@ -10,13 +10,15 @@ def main():
     
     newRemixes = []
     
-    for remixData in remixes:
+    print "Processing {} remixes in {}".format(len(remixes), filename)
+    
+    for i, remixData in enumerate(remixes):
         # The id is the last part of the file_page_url
         id = remixData["file_page_url"].split('/')[-1]
         remix = filter_json(id)
         # Check if we actually got a valid remix back
         if remix:
-            print remix
+            print "parsed remix {:3d}: {}".format(i, remix)
             newRemixes.append(remix)
     
     outfilename = "remix_links.json"
