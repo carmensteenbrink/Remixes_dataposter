@@ -50,7 +50,10 @@ def filter_json(id):
     remix_parents = []
     if data.has_key('remix_parents'):
         for parent in data['remix_parents']:
-            remix_parents.append(parent['upload_id'])
+            if parent.has_key('upload_id'):
+                remix_parents.append(parent['upload_id'])
+            elif parent.has_key('pool_item_id'):
+                remix_parents.append(parent['pool_item_id'])
     remix_children = []
     if data.has_key('remix_children'):
         for child in data['remix_children']:
