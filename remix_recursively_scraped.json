@@ -1,0 +1,5649 @@
+[
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52882", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Piano Orbit)"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52950", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Orbit Mix)"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52882", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Piano Orbit)"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52950", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Orbit Mix)"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52882", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Piano Orbit)"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52950", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Orbit Mix)"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "unreal_dm", 
+    "bpm": 120, 
+    "children": [
+      34868, 
+      35114, 
+      35287, 
+      35306
+    ], 
+    "id": "31070", 
+    "parents": [], 
+    "track": "ORD1 Drums @120 BPM"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [
+      33343, 
+      33369, 
+      35466, 
+      51195, 
+      53925, 
+      54102, 
+      54306
+    ], 
+    "id": "33332", 
+    "parents": [], 
+    "track": "Too Late"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "Super_Sigil", 
+    "bpm": 120, 
+    "children": [
+      54901
+    ], 
+    "id": "39743", 
+    "parents": [
+      39734, 
+      39736, 
+      39739, 
+      39742
+    ], 
+    "track": "Reborn Again"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 85, 
+    "children": [], 
+    "id": "40023", 
+    "parents": [
+      36252, 
+      39734, 
+      39736, 
+      39739, 
+      39740
+    ], 
+    "track": "The Coldness"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 140, 
+    "children": [
+      40101, 
+      43961
+    ], 
+    "id": "40068", 
+    "parents": [
+      35060, 
+      39730, 
+      39739
+    ], 
+    "track": "Multi Cultural Trance Mix (short version)"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      52882, 
+      52950, 
+      53151
+    ], 
+    "id": "52782", 
+    "parents": [], 
+    "track": "Kosmonaut 2016"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      52882, 
+      52950, 
+      53151
+    ], 
+    "id": "52782", 
+    "parents": [], 
+    "track": "Kosmonaut 2016"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52882", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Piano Orbit)"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52950", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Orbit Mix)"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52882", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Piano Orbit)"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52950", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Orbit Mix)"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "unreal_dm", 
+    "bpm": 120, 
+    "children": [
+      34868, 
+      35114, 
+      35287, 
+      35306
+    ], 
+    "id": "31070", 
+    "parents": [], 
+    "track": "ORD1 Drums @120 BPM"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [
+      33343, 
+      33369, 
+      35466, 
+      51195, 
+      53925, 
+      54102, 
+      54306
+    ], 
+    "id": "33332", 
+    "parents": [], 
+    "track": "Too Late"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "Super_Sigil", 
+    "bpm": 120, 
+    "children": [
+      54901
+    ], 
+    "id": "39743", 
+    "parents": [
+      39734, 
+      39736, 
+      39739, 
+      39742
+    ], 
+    "track": "Reborn Again"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 85, 
+    "children": [], 
+    "id": "40023", 
+    "parents": [
+      36252, 
+      39734, 
+      39736, 
+      39739, 
+      39740
+    ], 
+    "track": "The Coldness"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 140, 
+    "children": [
+      40101, 
+      43961
+    ], 
+    "id": "40068", 
+    "parents": [
+      35060, 
+      39730, 
+      39739
+    ], 
+    "track": "Multi Cultural Trance Mix (short version)"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      52882, 
+      52950, 
+      53151
+    ], 
+    "id": "52782", 
+    "parents": [], 
+    "track": "Kosmonaut 2016"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      52882, 
+      52950, 
+      53151
+    ], 
+    "id": "52782", 
+    "parents": [], 
+    "track": "Kosmonaut 2016"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52882", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Piano Orbit)"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52950", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Orbit Mix)"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "unreal_dm", 
+    "bpm": 120, 
+    "children": [
+      34868, 
+      35114, 
+      35287, 
+      35306
+    ], 
+    "id": "31070", 
+    "parents": [], 
+    "track": "ORD1 Drums @120 BPM"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [
+      33343, 
+      33369, 
+      35466, 
+      51195, 
+      53925, 
+      54102, 
+      54306
+    ], 
+    "id": "33332", 
+    "parents": [], 
+    "track": "Too Late"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "Super_Sigil", 
+    "bpm": 120, 
+    "children": [
+      54901
+    ], 
+    "id": "39743", 
+    "parents": [
+      39734, 
+      39736, 
+      39739, 
+      39742
+    ], 
+    "track": "Reborn Again"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 85, 
+    "children": [], 
+    "id": "40023", 
+    "parents": [
+      36252, 
+      39734, 
+      39736, 
+      39739, 
+      39740
+    ], 
+    "track": "The Coldness"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 140, 
+    "children": [
+      40101, 
+      43961
+    ], 
+    "id": "40068", 
+    "parents": [
+      35060, 
+      39730, 
+      39739
+    ], 
+    "track": "Multi Cultural Trance Mix (short version)"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      52882, 
+      52950, 
+      53151
+    ], 
+    "id": "52782", 
+    "parents": [], 
+    "track": "Kosmonaut 2016"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      52882, 
+      52950, 
+      53151
+    ], 
+    "id": "52782", 
+    "parents": [], 
+    "track": "Kosmonaut 2016"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "unreal_dm", 
+    "bpm": 120, 
+    "children": [
+      34868, 
+      35114, 
+      35287, 
+      35306
+    ], 
+    "id": "31070", 
+    "parents": [], 
+    "track": "ORD1 Drums @120 BPM"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [
+      33343, 
+      33369, 
+      35466, 
+      51195, 
+      53925, 
+      54102, 
+      54306
+    ], 
+    "id": "33332", 
+    "parents": [], 
+    "track": "Too Late"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "Super_Sigil", 
+    "bpm": 120, 
+    "children": [
+      54901
+    ], 
+    "id": "39743", 
+    "parents": [
+      39734, 
+      39736, 
+      39739, 
+      39742
+    ], 
+    "track": "Reborn Again"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 85, 
+    "children": [], 
+    "id": "40023", 
+    "parents": [
+      36252, 
+      39734, 
+      39736, 
+      39739, 
+      39740
+    ], 
+    "track": "The Coldness"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 140, 
+    "children": [
+      40101, 
+      43961
+    ], 
+    "id": "40068", 
+    "parents": [
+      35060, 
+      39730, 
+      39739
+    ], 
+    "track": "Multi Cultural Trance Mix (short version)"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      52882, 
+      52950, 
+      53151
+    ], 
+    "id": "52782", 
+    "parents": [], 
+    "track": "Kosmonaut 2016"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35213, 
+      35466, 
+      39739, 
+      52296, 
+      52942
+    ], 
+    "id": "35071", 
+    "parents": [], 
+    "track": "Loaded with Vitriol Pell"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      52882, 
+      52950, 
+      53151
+    ], 
+    "id": "52782", 
+    "parents": [], 
+    "track": "Kosmonaut 2016"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "53273", 
+    "parents": [
+      52882, 
+      52942, 
+      52950
+    ], 
+    "track": "Orbitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 90, 
+    "children": [
+      26082, 
+      27416, 
+      39606, 
+      41201, 
+      48106, 
+      50131, 
+      55320, 
+      58719
+    ], 
+    "id": "25925", 
+    "parents": [
+      17914, 
+      22046, 
+      22296, 
+      23240, 
+      25926
+    ], 
+    "track": "After the War"
+  }, 
+  {
+    "artist": "mykleanthony", 
+    "bpm": 90, 
+    "children": [
+      53743
+    ], 
+    "id": "25995", 
+    "parents": [
+      25926, 
+      25946
+    ], 
+    "track": "After The War!!"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35214", 
+    "parents": [
+      25926
+    ], 
+    "track": "The lonely One (Instrumental)"
+  }, 
+  {
+    "artist": "RobertWarrington", 
+    "bpm": "", 
+    "children": [], 
+    "id": "36009", 
+    "parents": [
+      25926, 
+      32063, 
+      32064
+    ], 
+    "track": "Grow Your Bones"
+  }, 
+  {
+    "artist": "debbizo", 
+    "bpm": 114, 
+    "children": [], 
+    "id": "29678", 
+    "parents": [
+      27693, 
+      29649
+    ], 
+    "track": "Really Sorry"
+  }, 
+  {
+    "artist": "subliminal", 
+    "bpm": 120, 
+    "children": [], 
+    "id": "30086", 
+    "parents": [
+      14889, 
+      29649, 
+      29970
+    ], 
+    "track": "Will I Be Lost?"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "coffeeeurope", 
+    "bpm": 115, 
+    "children": [
+      35862, 
+      35905
+    ], 
+    "id": "35846", 
+    "parents": [
+      29649
+    ], 
+    "track": "Cruel Intentions"
+  }, 
+  {
+    "artist": "Wired_Ant", 
+    "bpm": 86, 
+    "children": [], 
+    "id": "36087", 
+    "parents": [
+      26948, 
+      28495, 
+      29649, 
+      32180, 
+      35136, 
+      35184
+    ], 
+    "track": "Jorge takes the jamming over"
+  }, 
+  {
+    "artist": "panumoon", 
+    "bpm": 110, 
+    "children": [
+      52742, 
+      62210
+    ], 
+    "id": "52728", 
+    "parents": [
+      29649, 
+      36380, 
+      48809
+    ], 
+    "track": "Miles Ahead"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 140, 
+    "children": [
+      40101, 
+      43961
+    ], 
+    "id": "40068", 
+    "parents": [
+      35060, 
+      39730, 
+      39739
+    ], 
+    "track": "Multi Cultural Trance Mix (short version)"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 90, 
+    "children": [
+      26082, 
+      27416, 
+      39606, 
+      41201, 
+      48106, 
+      50131, 
+      55320, 
+      58719
+    ], 
+    "id": "25925", 
+    "parents": [
+      17914, 
+      22046, 
+      22296, 
+      23240, 
+      25926
+    ], 
+    "track": "After the War"
+  }, 
+  {
+    "artist": "mykleanthony", 
+    "bpm": 90, 
+    "children": [
+      53743
+    ], 
+    "id": "25995", 
+    "parents": [
+      25926, 
+      25946
+    ], 
+    "track": "After The War!!"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35214", 
+    "parents": [
+      25926
+    ], 
+    "track": "The lonely One (Instrumental)"
+  }, 
+  {
+    "artist": "RobertWarrington", 
+    "bpm": "", 
+    "children": [], 
+    "id": "36009", 
+    "parents": [
+      25926, 
+      32063, 
+      32064
+    ], 
+    "track": "Grow Your Bones"
+  }, 
+  {
+    "artist": "debbizo", 
+    "bpm": 114, 
+    "children": [], 
+    "id": "29678", 
+    "parents": [
+      27693, 
+      29649
+    ], 
+    "track": "Really Sorry"
+  }, 
+  {
+    "artist": "subliminal", 
+    "bpm": 120, 
+    "children": [], 
+    "id": "30086", 
+    "parents": [
+      14889, 
+      29649, 
+      29970
+    ], 
+    "track": "Will I Be Lost?"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "coffeeeurope", 
+    "bpm": 115, 
+    "children": [
+      35862, 
+      35905
+    ], 
+    "id": "35846", 
+    "parents": [
+      29649
+    ], 
+    "track": "Cruel Intentions"
+  }, 
+  {
+    "artist": "Wired_Ant", 
+    "bpm": 86, 
+    "children": [], 
+    "id": "36087", 
+    "parents": [
+      26948, 
+      28495, 
+      29649, 
+      32180, 
+      35136, 
+      35184
+    ], 
+    "track": "Jorge takes the jamming over"
+  }, 
+  {
+    "artist": "panumoon", 
+    "bpm": 110, 
+    "children": [
+      52742, 
+      62210
+    ], 
+    "id": "52728", 
+    "parents": [
+      29649, 
+      36380, 
+      48809
+    ], 
+    "track": "Miles Ahead"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "debbizo", 
+    "bpm": 114, 
+    "children": [], 
+    "id": "29678", 
+    "parents": [
+      27693, 
+      29649
+    ], 
+    "track": "Really Sorry"
+  }, 
+  {
+    "artist": "subliminal", 
+    "bpm": 120, 
+    "children": [], 
+    "id": "30086", 
+    "parents": [
+      14889, 
+      29649, 
+      29970
+    ], 
+    "track": "Will I Be Lost?"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "coffeeeurope", 
+    "bpm": 115, 
+    "children": [
+      35862, 
+      35905
+    ], 
+    "id": "35846", 
+    "parents": [
+      29649
+    ], 
+    "track": "Cruel Intentions"
+  }, 
+  {
+    "artist": "Wired_Ant", 
+    "bpm": 86, 
+    "children": [], 
+    "id": "36087", 
+    "parents": [
+      26948, 
+      28495, 
+      29649, 
+      32180, 
+      35136, 
+      35184
+    ], 
+    "track": "Jorge takes the jamming over"
+  }, 
+  {
+    "artist": "panumoon", 
+    "bpm": 110, 
+    "children": [
+      52742, 
+      62210
+    ], 
+    "id": "52728", 
+    "parents": [
+      29649, 
+      36380, 
+      48809
+    ], 
+    "track": "Miles Ahead"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "debbizo", 
+    "bpm": 114, 
+    "children": [], 
+    "id": "29678", 
+    "parents": [
+      27693, 
+      29649
+    ], 
+    "track": "Really Sorry"
+  }, 
+  {
+    "artist": "subliminal", 
+    "bpm": 120, 
+    "children": [], 
+    "id": "30086", 
+    "parents": [
+      14889, 
+      29649, 
+      29970
+    ], 
+    "track": "Will I Be Lost?"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "coffeeeurope", 
+    "bpm": 115, 
+    "children": [
+      35862, 
+      35905
+    ], 
+    "id": "35846", 
+    "parents": [
+      29649
+    ], 
+    "track": "Cruel Intentions"
+  }, 
+  {
+    "artist": "Wired_Ant", 
+    "bpm": 86, 
+    "children": [], 
+    "id": "36087", 
+    "parents": [
+      26948, 
+      28495, 
+      29649, 
+      32180, 
+      35136, 
+      35184
+    ], 
+    "track": "Jorge takes the jamming over"
+  }, 
+  {
+    "artist": "panumoon", 
+    "bpm": 110, 
+    "children": [
+      52742, 
+      62210
+    ], 
+    "id": "52728", 
+    "parents": [
+      29649, 
+      36380, 
+      48809
+    ], 
+    "track": "Miles Ahead"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 100, 
+    "children": [], 
+    "id": "34868", 
+    "parents": [
+      25868, 
+      31070, 
+      34809
+    ], 
+    "track": "Go On"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [], 
+    "id": "35287", 
+    "parents": [
+      31070, 
+      31271
+    ], 
+    "track": "Easter Light"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [], 
+    "id": "35306", 
+    "parents": [
+      30647, 
+      31070, 
+      33285
+    ], 
+    "track": "Truth and Fact"
+  }, 
+  {
+    "artist": "Haskel", 
+    "bpm": 90, 
+    "children": [
+      25925, 
+      25995, 
+      35060, 
+      35075, 
+      35103, 
+      35213, 
+      35214, 
+      36009
+    ], 
+    "id": "25926", 
+    "parents": [], 
+    "track": "After The War -- Guitar"
+  }, 
+  {
+    "artist": "audiotechnica", 
+    "bpm": 115, 
+    "children": [
+      29678, 
+      30086, 
+      35060, 
+      35075, 
+      35103, 
+      35110, 
+      35114, 
+      35846, 
+      36087, 
+      52728, 
+      56231
+    ], 
+    "id": "29649", 
+    "parents": [], 
+    "track": "back talk"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 140, 
+    "children": [
+      40101, 
+      43961
+    ], 
+    "id": "40068", 
+    "parents": [
+      35060, 
+      39730, 
+      39739
+    ], 
+    "track": "Multi Cultural Trance Mix (short version)"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 90, 
+    "children": [
+      26082, 
+      27416, 
+      39606, 
+      41201, 
+      48106, 
+      50131, 
+      55320, 
+      58719
+    ], 
+    "id": "25925", 
+    "parents": [
+      17914, 
+      22046, 
+      22296, 
+      23240, 
+      25926
+    ], 
+    "track": "After the War"
+  }, 
+  {
+    "artist": "mykleanthony", 
+    "bpm": 90, 
+    "children": [
+      53743
+    ], 
+    "id": "25995", 
+    "parents": [
+      25926, 
+      25946
+    ], 
+    "track": "After The War!!"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35214", 
+    "parents": [
+      25926
+    ], 
+    "track": "The lonely One (Instrumental)"
+  }, 
+  {
+    "artist": "RobertWarrington", 
+    "bpm": "", 
+    "children": [], 
+    "id": "36009", 
+    "parents": [
+      25926, 
+      32063, 
+      32064
+    ], 
+    "track": "Grow Your Bones"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "septahelix", 
+    "bpm": "", 
+    "children": [
+      33741, 
+      59746
+    ], 
+    "id": "33343", 
+    "parents": [
+      33265, 
+      33268, 
+      33290, 
+      33291, 
+      33321, 
+      33324, 
+      33325, 
+      33332, 
+      33337
+    ], 
+    "track": "Twilight of the Cinema"
+  }, 
+  {
+    "artist": "murat_ses", 
+    "bpm": 130, 
+    "children": [
+      33394, 
+      51667
+    ], 
+    "id": "33369", 
+    "parents": [
+      7943, 
+      33332
+    ], 
+    "track": "Anatolian Highway"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "teru", 
+    "bpm": 120, 
+    "children": [], 
+    "id": "53925", 
+    "parents": [
+      52745, 
+      53183
+    ], 
+    "track": "Ain't Funking Around"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 119, 
+    "children": [], 
+    "id": "54306", 
+    "parents": [
+      40315
+    ], 
+    "track": "Guess Who's a Mess"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "blueswerver", 
+    "bpm": 107, 
+    "children": [
+      39743, 
+      39757, 
+      40023, 
+      48828, 
+      52807
+    ], 
+    "id": "39734", 
+    "parents": [], 
+    "track": "Stems - Coldness Of The Moon by Blue Swerver"
+  }, 
+  {
+    "artist": "Wired_Ant", 
+    "bpm": 85, 
+    "children": [
+      39740, 
+      39743, 
+      40023, 
+      40041, 
+      40070, 
+      40776, 
+      41203
+    ], 
+    "id": "39736", 
+    "parents": [], 
+    "track": "Crying Walls"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "ramblinglibrarian", 
+    "bpm": 150, 
+    "children": [
+      39743
+    ], 
+    "id": "39742", 
+    "parents": [
+      15524
+    ], 
+    "track": "Hokkien HipHop Auction Pop"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 80, 
+    "children": [], 
+    "id": "54901", 
+    "parents": [
+      39399, 
+      39434, 
+      39743, 
+      40187, 
+      53535
+    ], 
+    "track": "Telebuda And The Mantis"
+  }, 
+  {
+    "artist": "Wired_Ant", 
+    "bpm": 121, 
+    "children": [
+      36257, 
+      36736, 
+      36741, 
+      36982, 
+      40023, 
+      42526
+    ], 
+    "id": "36252", 
+    "parents": [], 
+    "track": "Divorced sax and drums"
+  }, 
+  {
+    "artist": "blueswerver", 
+    "bpm": 107, 
+    "children": [
+      39743, 
+      39757, 
+      40023, 
+      48828, 
+      52807
+    ], 
+    "id": "39734", 
+    "parents": [], 
+    "track": "Stems - Coldness Of The Moon by Blue Swerver"
+  }, 
+  {
+    "artist": "Wired_Ant", 
+    "bpm": 85, 
+    "children": [
+      39740, 
+      39743, 
+      40023, 
+      40041, 
+      40070, 
+      40776, 
+      41203
+    ], 
+    "id": "39736", 
+    "parents": [], 
+    "track": "Crying Walls"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "Javolenus", 
+    "bpm": 85, 
+    "children": [
+      40023, 
+      40741
+    ], 
+    "id": "39740", 
+    "parents": [
+      39736
+    ], 
+    "track": "Andromeda"
+  }, 
+  {
+    "artist": "SackJo22", 
+    "bpm": 115, 
+    "children": [
+      35075, 
+      35114, 
+      40068, 
+      57322
+    ], 
+    "id": "35060", 
+    "parents": [
+      25926, 
+      29649
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "Pitbull", 
+    "bpm": "132, 140", 
+    "children": [
+      40068
+    ], 
+    "id": "39730", 
+    "parents": [], 
+    "track": "Higher Ground - Trance remix"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "Super_Sigil", 
+    "bpm": 90, 
+    "children": [], 
+    "id": "40101", 
+    "parents": [
+      40066, 
+      40068, 
+      40093, 
+      40096, 
+      40097
+    ], 
+    "track": "Chimp Ant Z"
+  }, 
+  {
+    "artist": "Vidian", 
+    "bpm": 131, 
+    "children": [
+      45506
+    ], 
+    "id": "43961", 
+    "parents": [
+      40068, 
+      41305, 
+      42079, 
+      42544, 
+      43738
+    ], 
+    "track": "Butterfly Heartbeat"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52882", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Piano Orbit)"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52950", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Orbit Mix)"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52882", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Piano Orbit)"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52950", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Orbit Mix)"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 80, 
+    "children": [], 
+    "id": "53151", 
+    "parents": [
+      52782, 
+      52788, 
+      52800, 
+      52801, 
+      52808
+    ], 
+    "track": "Kosmonaut"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52882", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Piano Orbit)"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52950", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Orbit Mix)"
+  }, 
+  {
+    "artist": "CSoul", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35075", 
+    "parents": [
+      25926, 
+      29649, 
+      35060, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "copperhead", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35103", 
+    "parents": [
+      25926, 
+      29649, 
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "AlexBeroza", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35110", 
+    "parents": [
+      29649, 
+      35071
+    ], 
+    "track": "Loaded With Vitriol"
+  }, 
+  {
+    "artist": "TheDICE", 
+    "bpm": 120, 
+    "children": [
+      52567
+    ], 
+    "id": "35114", 
+    "parents": [
+      29649, 
+      31070, 
+      35060, 
+      35071
+    ], 
+    "track": "Heavy loaded with Vitriol"
+  }, 
+  {
+    "artist": "VJ_Memes", 
+    "bpm": "", 
+    "children": [], 
+    "id": "35213", 
+    "parents": [
+      25926, 
+      35071
+    ], 
+    "track": "The lonely one"
+  }, 
+  {
+    "artist": "Coruscate", 
+    "bpm": 115, 
+    "children": [], 
+    "id": "35466", 
+    "parents": [
+      33332, 
+      35071
+    ], 
+    "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza"
+  }, 
+  {
+    "artist": "shalpin", 
+    "bpm": 130, 
+    "children": [
+      39743, 
+      40023, 
+      40068
+    ], 
+    "id": "39739", 
+    "parents": [
+      35071
+    ], 
+    "track": "Any more of my love"
+  }, 
+  {
+    "artist": "kondro", 
+    "bpm": "", 
+    "children": [
+      62284
+    ], 
+    "id": "52296", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52882", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Piano Orbit)"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52950", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Orbit Mix)"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52882", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Piano Orbit)"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52950", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Orbit Mix)"
+  }, 
+  {
+    "artist": "speck", 
+    "bpm": 80, 
+    "children": [], 
+    "id": "53151", 
+    "parents": [
+      52782, 
+      52788, 
+      52800, 
+      52801, 
+      52808
+    ], 
+    "track": "Kosmonaut"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52882", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Piano Orbit)"
+  }, 
+  {
+    "artist": "JeffSpeed68", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52942", 
+    "parents": [
+      35071
+    ], 
+    "track": "Loaded with Vitriol"
+  }, 
+  {
+    "artist": "SiobhanD", 
+    "bpm": 115, 
+    "children": [
+      53273
+    ], 
+    "id": "52950", 
+    "parents": [
+      52782
+    ], 
+    "track": "Kosmonaut (Orbit Mix)"
+  }
+]
