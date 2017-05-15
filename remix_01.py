@@ -14,8 +14,10 @@ def main():
         # The id is the last part of the file_page_url
         id = remixData["file_page_url"].split('/')[-1]
         remix = filter_json(id)
-        print remix
-        newRemixes.append(remix)
+        # Check if we actually got a valid remix back
+        if remix:
+            print remix
+            newRemixes.append(remix)
     
     outfilename = "remix_links.json"
     with open(outfilename, "w") as outfile:
@@ -41,7 +43,12 @@ def filter_json(id):
     url = "http://ccmixter.org/api/query?f=json&t=info&ids="+id
     site = urllib2.urlopen(url).read()
     alldata = json.loads(site.decode("utf-8", "ignore"))
-    data = alldata[0]
+    try:
+        data = alldata[0]
+    except IndexError:
+        print "data has no index 0:"
+        print data
+        return None
     
     upload_id = id
     user_name = data['user_name']
