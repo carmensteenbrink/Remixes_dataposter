@@ -49,7 +49,7 @@ def filter_json(id):
         data = alldata[0]
     except IndexError:
         print "data has no index 0:"
-        print data
+        print alldata
         return None
     
     upload_id = id
