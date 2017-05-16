@@ -25,7 +25,6 @@ def main():
     with open(outfilename, "w") as outfile:
         json.dump(newRemixes, outfile, indent=2, sort_keys=True)
 '''
-
 [
   {
     "artist_page_url": "http://ccmixter.org/people/JeffSpeed68",
@@ -96,9 +95,7 @@ def filter_json(id):
     
     #for line in data:
     for idx, line in enumerate(data):
-
         print line
-
         if "user_name" in line:
             user_name = line.split('"')[3]
         if "\"bpm\"" in line:
