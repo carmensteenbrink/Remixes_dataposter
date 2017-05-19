@@ -1,12 +1,11 @@
+import json
+
 size(800, 800)
 background(1)
 stroke (0)
 
-with open('nested_structure.json', 'r')
-as inputFile:
-
-nestedData 
-= json.load(inputFile)
+with open('nested_structure.json', 'r') as inputFile:
+    nestedData = json.load(inputFile)
 
 # start position
 x = WIDTH / 2
