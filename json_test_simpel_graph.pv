@@ -43,11 +43,13 @@ def drawTree(x, y, data, depth):
     newy = y - 125 # 125px higher than last one
     for parent in data['parents']:
         line(x, y - ymarginbottom, newx, newy + ymargintop)
+        # If the depth is not reached,
+        # call itself recursively for each parent
         if depth > 0:
             drawTree(newx, newy, parent, depth - 1)
+        # give each parent some space in the x-direction
         newx += xspacing
 
-
-    
-
+# Call to draw the root of the tree
+# (the rest of the branches will draw themselves)
 drawTree(x, y, nestedData, 10)
