@@ -9,7 +9,7 @@ with open('nested_structure.json', 'r') as inputFile:
 
 # start position
 x = WIDTH / 2
-y = HEIGHT / 2
+y = HEIGHT * 0.8
 
 # Making it recursive:
 # 1. add extra argument 'depth'
@@ -18,14 +18,36 @@ y = HEIGHT / 2
 # 4. decrement the depth of each 'child'
 # 5. call the root with a depth > 0
 
-def segment(x, y, x_direction, height, depth):
-    x2 = x + x_direction
-    y2 = y - height
-    line (x, y, x2, y2)
-    if depth > 0:
-        segment(x2, y2, -30, 30, depth - 1)
-        segment(x2, y2, 30, 30, depth - 1)
-    return (x2, y2)
+# def segment(x, y, x_direction, height, depth):
+#     x2 = x + x_direction
+#     y2 = y - height
+#     line (x, y, x2, y2)
+#     if depth > 0:
+#         segment(x2, y2, -30, 30, depth - 1)
+#         segment(x2, y2, 30, 30, depth - 1)
+#     return (x2, y2)
 
-# play with 3rd and 4th argument
-segment(x, y, 0, 50, 10)
+# # play with 3rd and 4th argument
+# segment(x, y, 0, 50, 10)
+
+def drawTree(x, y, data, depth):
+    # draw the text
+    text(data["id"], x, y, align=CENTER)
+    # draw lines towards the parents
+    nParents = len(data['parents'])
+    xspacing = 100 # 100 px spacing per parent
+    width = (nParents - 1) * xspacing 
+    newx = x - (width / 2)
+    ymarginbottom = 25
+    ymargintop = 15
+    newy = y - 125 # 125px higher than last one
+    for parent in data['parents']:
+        line(x, y - ymarginbottom, newx, newy + ymargintop)
+        if depth > 0:
+            drawTree(newx, newy, parent, depth - 1)
+        newx += xspacing
+
+
+    
+
+drawTree(x, y, nestedData, 10)
