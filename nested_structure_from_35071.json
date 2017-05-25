@@ -1,0 +1,126 @@
+[
+  {
+    "track": "Loaded with Vitriol Pell", 
+    "children": [
+      {
+        "track": "Loaded with Vitriol", 
+        "children": [], 
+        "bpm": 115, 
+        "id": "35075", 
+        "artist": "CSoul"
+      }, 
+      {
+        "track": "Loaded with Vitriol", 
+        "children": [], 
+        "bpm": 115, 
+        "id": "35103", 
+        "artist": "copperhead"
+      }, 
+      {
+        "track": "Loaded With Vitriol", 
+        "children": [], 
+        "bpm": 115, 
+        "id": "35110", 
+        "artist": "AlexBeroza"
+      }, 
+      {
+        "track": "Heavy loaded with Vitriol", 
+        "children": [], 
+        "bpm": 120, 
+        "id": "35114", 
+        "artist": "TheDICE"
+      }, 
+      {
+        "track": "The lonely one", 
+        "children": [], 
+        "bpm": "", 
+        "id": "35213", 
+        "artist": "VJ_Memes"
+      }, 
+      {
+        "track": "Loaded Too Late Ft. SackJo22 & Alex Beroza", 
+        "children": [], 
+        "bpm": 115, 
+        "id": "35466", 
+        "artist": "Coruscate"
+      }, 
+      {
+        "track": "Any more of my love", 
+        "children": [
+          {
+            "track": "Reborn Again", 
+            "children": [
+              {
+                "track": "Telebuda And The Mantis", 
+                "children": [], 
+                "bpm": 80, 
+                "id": "54901", 
+                "artist": "speck"
+              }
+            ], 
+            "bpm": 120, 
+            "id": "39743", 
+            "artist": "Super_Sigil"
+          }, 
+          {
+            "track": "The Coldness", 
+            "children": [], 
+            "bpm": 85, 
+            "id": "40023", 
+            "artist": "speck"
+          }, 
+          {
+            "track": "Multi Cultural Trance Mix (short version)", 
+            "children": [
+              {
+                "track": "Chimp Ant Z", 
+                "children": [], 
+                "bpm": 90, 
+                "id": "40101", 
+                "artist": "Super_Sigil"
+              }, 
+              {
+                "track": "Butterfly Heartbeat", 
+                "children": [], 
+                "bpm": 131, 
+                "id": "43961", 
+                "artist": "Vidian"
+              }
+            ], 
+            "bpm": 140, 
+            "id": "40068", 
+            "artist": "CSoul"
+          }
+        ], 
+        "bpm": 130, 
+        "id": "39739", 
+        "artist": "shalpin"
+      }, 
+      {
+        "track": "Loaded with Vitriol", 
+        "children": [], 
+        "bpm": "", 
+        "id": "52296", 
+        "artist": "kondro"
+      }, 
+      {
+        "track": "Loaded with Vitriol", 
+        "children": [
+          {
+            "track": "Orbitriol", 
+            "children": [], 
+            "bpm": 115, 
+            "id": "53273", 
+            "artist": "speck"
+          }
+        ], 
+        "bpm": 115, 
+        "id": "52942", 
+        "artist": "JeffSpeed68"
+      }
+    ], 
+    "bpm": 115, 
+    "id": "35071", 
+    "artist": "SackJo22"
+  }
+]
