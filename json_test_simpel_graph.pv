@@ -1,8 +1,10 @@
 import json
 
-size(800, 800)
-background(1)
-stroke (0)
+size(1000, 1000)
+background('#100', 'white', steps=[0,1], center=[0,1])
+stroke (1)
+font("Avenir", 12)
+fill('white')
 
 with open('nested_structure.json', 'r') as inputFile:
     nestedData = json.load(inputFile)
@@ -10,13 +12,6 @@ with open('nested_structure.json', 'r') as inputFile:
 # start position
 x = WIDTH / 2
 y = HEIGHT * 0.8
-
-# Making it recursive:
-# 1. add extra argument 'depth'
-# 2. only continue deeper if depth > 0
-# 3. call itself (twice)
-# 4. decrement the depth of each 'child'
-# 5. call the root with a depth > 0
 
 # def segment(x, y, x_direction, height, depth):
 #     x2 = x + x_direction
@@ -46,6 +41,8 @@ def walkTree(data, depth):
         # call itself recursively for each parent
         if depth > 0:
             walkTree(parent, depth - 1)
+            
+            
 
 def drawTree(x, y, data, depth):
     # draw the text
@@ -101,6 +98,7 @@ def drawGenerations(x, y, data, depth):
         newx += xspacing
 
 
+
 # Call to draw the root of the tree
 # (the rest of the branches will draw themselves)
 walkTree(nestedData, 10)
@@ -115,6 +113,8 @@ for k in parentsPerGeneration.keys():
         if not p in newParents:
             newParents.append(p)
     parentsPerGeneration[k] = newParents
+    
+
     
 print parentsPerGeneration
 
