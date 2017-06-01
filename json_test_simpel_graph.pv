@@ -1,12 +1,12 @@
 import json
 
 size(1000, 1000)
-background('#100', 'white', steps=[0,1], center=[0,1])
-stroke (1)
+background('white')
+stroke (0)
 font("Avenir", 12)
-fill('white')
+fill('black')
 
-with open('nested_structure_from_35071.json', 'r') as inputFile:
+with open('nested_structure_from_29649.json', 'r') as inputFile:
     nestedData = json.load(inputFile)
 
 # start position
