@@ -6,7 +6,7 @@ stroke (1)
 font("Avenir", 12)
 fill('white')
 
-with open('nested_structure.json', 'r') as inputFile:
+with open('nested_structure_from_35071.json', 'r') as inputFile:
     nestedData = json.load(inputFile)
 
 # start position
@@ -29,14 +29,14 @@ parentsPerGeneration = {}
 
 def walkTree(data, depth):
     # draw lines towards the parents
-    nParents = len(data['parents'])
+    nParents = len(data['children'])
     # Add the parents to this generation
     k = "gen_" + str(depth) # k : key
     if parentsPerGeneration.has_key(k):
-        parentsPerGeneration[k] += [d["id"] for d in data['parents']]
+        parentsPerGeneration[k] += [d["id"] for d in data['children']]
     else:
-        parentsPerGeneration[k] = [d["id"] for d in data['parents']]
-    for parent in data['parents']:
+        parentsPerGeneration[k] = [d["id"] for d in data['children']]
+    for parent in data['children']:
         # If the depth is not reached,
         # call itself recursively for each parent
         if depth > 0:
@@ -48,20 +48,20 @@ def drawTree(x, y, data, depth):
     # draw the text
     text(data["id"], x, y, align=CENTER)
     # draw lines towards the parents
-    nParents = len(data['parents'])
+    nParents = len(data['children'])
     # Add the parents to this generation
     k = "gen_" + str(depth) # k : key
     if parentsPerGeneration.has_key(k):
-        parentsPerGeneration[k] += [d["id"] for d in data['parents']]
+        parentsPerGeneration[k] += [d["id"] for d in data['children']]
     else:
-        parentsPerGeneration[k] = [d["id"] for d in data['parents']]
+        parentsPerGeneration[k] = [d["id"] for d in data['children']]
     xspacing = 100 # 100 px spacing per parent
     width = (nParents - 1) * xspacing 
     newx = x - (width / 2)
     ymarginbottom = 25
     ymargintop = 15
     newy = y - 125 # 125px higher than last one
-    for parent in data['parents']:
+    for parent in data['children']:
         line(x, y - ymarginbottom, newx, newy + ymargintop)
         # If the depth is not reached,
         # call itself recursively for each parent
@@ -72,7 +72,7 @@ def drawTree(x, y, data, depth):
 
 def drawGenerations(x, y, data, depth):
     # draw the text
-    text(data["id"], x, y, align=CENTER)
+    text(data["track"], x, y, align=CENTER)
     # draw lines towards the parents
     k = "gen_" + str(depth) # k : key
     parentsInGen = parentsPerGeneration[k]
@@ -87,13 +87,14 @@ def drawGenerations(x, y, data, depth):
     newx = x - (width / 2)
     ymarginbottom = 25
     ymargintop = 15
-    newy = y - 125 # 125px higher than last one
-    for parent in data['parents']:
-        line(x, y - ymarginbottom, newx, newy + ymargintop)
+    newy = y - 125 # 125px higher than last one 
+    for parent in data['children']:
+        newnewy = newy - random(50)
+        line(x, y - ymarginbottom, newx, newnewy + ymargintop)
         # If the depth is not reached,
         # call itself recursively for each parent
         if depth > 0:
-            drawGenerations(newx, newy, parent, depth - 1)
+            drawGenerations(newx, newnewy, parent, depth - 1)
         # give each parent some space in the x-direction
         newx += xspacing
 
@@ -101,7 +102,7 @@ def drawGenerations(x, y, data, depth):
 
 # Call to draw the root of the tree
 # (the rest of the branches will draw themselves)
-walkTree(nestedData, 10)
+walkTree(nestedData[0], 10)
 
 print parentsPerGeneration
 print "========"
@@ -118,4 +119,4 @@ for k in parentsPerGeneration.keys():
     
 print parentsPerGeneration
 
-drawGenerations(x, y, nestedData, 10)
+drawGenerations(x, y, nestedData[0], 10)

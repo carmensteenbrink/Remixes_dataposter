@@ -1,0 +1,103 @@
+[
+  {
+    "track": "After The War -- Guitar", 
+    "children": [
+      {
+        "track": "After the War", 
+        "children": [], 
+        "bpm": 90, 
+        "id": "25925", 
+        "artist": "SackJo22"
+      }, 
+      {
+        "track": "After The War!!", 
+        "children": [], 
+        "bpm": 90, 
+        "id": "25995", 
+        "artist": "mykleanthony"
+      }, 
+      {
+        "track": "Loaded with Vitriol", 
+        "children": [
+          {
+            "track": "Loaded with Vitriol", 
+            "children": [], 
+            "bpm": 115, 
+            "id": "35075", 
+            "artist": "CSoul"
+          }, 
+          {
+            "track": "Heavy loaded with Vitriol", 
+            "children": [], 
+            "bpm": 120, 
+            "id": "35114", 
+            "artist": "TheDICE"
+          }, 
+          {
+            "track": "Multi Cultural Trance Mix (short version)", 
+            "children": [
+              {
+                "track": "Chimp Ant Z", 
+                "children": [], 
+                "bpm": 90, 
+                "id": "40101", 
+                "artist": "Super_Sigil"
+              }, 
+              {
+                "track": "Butterfly Heartbeat", 
+                "children": [], 
+                "bpm": 131, 
+                "id": "43961", 
+                "artist": "Vidian"
+              }
+            ], 
+            "bpm": 140, 
+            "id": "40068", 
+            "artist": "CSoul"
+          }
+        ], 
+        "bpm": 115, 
+        "id": "35060", 
+        "artist": "SackJo22"
+      }, 
+      {
+        "track": "Loaded with Vitriol", 
+        "children": [], 
+        "bpm": 115, 
+        "id": "35075", 
+        "artist": "CSoul"
+      }, 
+      {
+        "track": "Loaded with Vitriol", 
+        "children": [], 
+        "bpm": 115, 
+        "id": "35103", 
+        "artist": "copperhead"
+      }, 
+      {
+        "track": "The lonely one", 
+        "children": [], 
+        "bpm": "", 
+        "id": "35213", 
+        "artist": "VJ_Memes"
+      }, 
+      {
+        "track": "The lonely One (Instrumental)", 
+        "children": [], 
+        "bpm": "", 
+        "id": "35214", 
+        "artist": "VJ_Memes"
+      }, 
+      {
+        "track": "Grow Your Bones", 
+        "children": [], 
+        "bpm": "", 
+        "id": "36009", 
+        "artist": "RobertWarrington"
+      }
+    ], 
+    "bpm": 90, 
+    "id": "25926", 
+    "artist": "Haskel"
+  }
+]

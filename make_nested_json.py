@@ -22,7 +22,7 @@ def main():
     # which could create an interesting graph.
     # 
     # We just try to create the nested data structure from the first one:
-    initialId = "35071"
+    initialId = "43961"
     
     # Create a list of IDs from the data, so we know which IDs have actual track data
     idsWithData = [t["id"] for t in data]
