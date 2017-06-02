@@ -27,56 +27,18 @@ def main():
     # Create a list of IDs from the data, so we know which IDs have actual track data
     idsWithData = [t["id"] for t in data]
     
-    nestedData = insertChildren([initialId], 10)
+    nestedData = insertParents([initialId], 10)
     print nestedData
 
     # Save the nested data
-    filename = "nested_structure_from_{}.json".format(initialId)
+    filename = "nested_parent_structure_from_{}.json".format(initialId)
     with open(filename, 'w') as outfile:
         json.dump(nestedData, outfile, indent=2)
     
-        
-    # # Follow the children recursively
-    # nestedData = insertChildren([initial["id"]], 10)
-    # print nestedData
-    #
-    # deepchild = ["53273"]
-    # nestedData = insertParents(deepchild, 10)
-    # print nestedData
-    
-    # the nested structure can simply be ["12435"]
-    # or [{"id": "12435", "children": ["67890", "09876"]}]
-    # "children": [] indicates that there are no further children
-def insertChildren(nested, depth):
-    # Make sure it is not endlessly recursing
-    if depth > 0:
-        depth -= 1
-        # Create a new list
-        newList = []
-        # Loop through all children
-        for child in nested:
-            # String or dict
-            if type(child) == str or type(child) == unicode:
-                if child in idsWithData:
-                    children = insertChildren(findChildren(child), depth)
-                    childDict = {}
-                    trackData = dataWithId(child)
-                    childDict["id"] = child
-                    keys = ["artist", "bpm", "track"]
-                    for k in keys:
-                        childDict[k] = trackData[k]
-                    childDict["children"] = children
-                    newList.append(childDict)
-                else:
-                    print "track '{}' encountered in tree, skipped because it has no data".format(child)    
-            else:
-                print "no id str", child
-        return newList
-    return nested
 
     # the nested structure can simply be ["12435"]
-    # or [{"id": "12435", "children": ["67890", "09876"]}]
-    # "children": [] indicates that there are no further children
+    # or [{"id": "12435", "parents": ["67890", "09876"]}]
+    # "parents": [] indicates that there are no further parents
 def insertParents(nested, depth):
     # Make sure it is not endlessly recursing
     if depth > 0:
@@ -87,11 +49,18 @@ def insertParents(nested, depth):
         for parent in nested:
             # String or dict
             if type(parent) == str or type(parent) == unicode:
-                parents = insertParents(findParents(parent), depth)
-                parentDict = {}
-                parentDict["id"] = parent
-                parentDict["parents"] = parents
-                newList.append(parentDict)
+                if parent in idsWithData:
+                    parents = insertParents(findParents(parent), depth)
+                    parentDict = {}
+                    trackData = dataWithId(parent)
+                    parentDict["id"] = parent
+                    keys = ["artist", "bpm", "track"]
+                    for k in keys:
+                        parentDict[k] = trackData[k]
+                    parentDict["parents"] = parents
+                    newList.append(parentDict)
+                else:
+                    print "track '{}' encountered in tree, skipped because it has no data".format(parent)    
             else:
                 print "no id str", parent
         return newList
